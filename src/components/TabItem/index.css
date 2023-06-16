@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.butt {
+  background-color: transparent;
+  border: none;
+  margin-top: 20px;
+  margin-right: 20px;
+  font-size: 14px;
+  color: #7b8794;
+}
+.active-butt {
+  background-color: transparent;
+  border-bottom: #2563eb solid 1px;
+  margin-top: 20px;
+  margin-right: 20px;
+  font-size: 18px;
+  color: #2563eb;
+}
